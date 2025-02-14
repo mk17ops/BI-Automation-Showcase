@@ -18,25 +18,6 @@ This repository provides an overview of an **ETL pipeline designed to process fi
 ✔ **Dashboard previews & insights**  
 ✔ **High-level breakdown of the process**  
 
----
-
-## 📂 Project Structure  
-```📂 BI-Automation-Showcase
-├── 📂 docs # Documentation & Architecture
-│  ├── architecture_diagram.png
-│  ├── workflow_overview.md
-├── 📂 images # Visuals & Screenshots
-│  ├── dashboard_preview.png
-│  ├── etl_process.png
-├── 📂 reports # Power BI Reports (Dummy Version)
-│  ├── insurance_dashboard.pbix
-│  ├── financial_dashboard.pbix
-├── README.md # Project Overview```
-
-
-
-
-
 ## 🔹 Workflow Overview:
 1️⃣ **Data Collection** – Extracting structured/unstructured data from multiple sources  
 2️⃣ **ETL Process** – Cleaning, transforming, and loading data into a warehouse  
@@ -52,22 +33,20 @@ This repository provides an overview of an **ETL pipeline designed to process fi
 - **PySpark & SQL** – ETL & Data Warehousing  
 - **Flask API** – Backend Development  
 - **Angular** – Frontend UI for reporting  
-
 ---
 
-## 📸 Screenshots  
-### 📊 **Power BI Dashboard Preview**  
-![Power BI Dashboard](images/dashboard_preview.png)
-
-### 🔄 **ETL Process Overview**  
-![ETL Process](images/etl_process.png)
-
----
-
-## 🚀 How to Use  
-1️⃣ **Clone this repository:**  
-```bash
-git clone https://github.com/yourusername/BI-Automation-Showcase.git
+## 📂 Project Structure  
+```📂 BI-Automation-Showcase
+├── 📂 docs # Documentation & Architecture
+│  ├── architecture_diagram.png
+│  ├── workflow_overview.md
+├── 📂 images # Visuals & Screenshots
+│  ├── dashboard_preview.png
+│  ├── etl_process.png
+├── 📂 reports # Power BI Reports (Dummy Version)
+│  ├── insurance_dashboard.pbix
+│  ├── financial_dashboard.pbix
+├── README.md # Project Overview```
 
 
 
