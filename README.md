@@ -21,17 +21,17 @@ This repository provides an overview of an **ETL pipeline designed to process fi
 ---
 
 ## 📂 Project Structure  
-'''📂 BI-Automation-Showcase
+```📂 BI-Automation-Showcase
 ├── 📂 docs # Documentation & Architecture
-│ ├── architecture_diagram.png
-│ ├── workflow_overview.md
+│  ├── architecture_diagram.png
+│  ├── workflow_overview.md
 ├── 📂 images # Visuals & Screenshots
-│ ├── dashboard_preview.png
-│ ├── etl_process.png
+│  ├── dashboard_preview.png
+│  ├── etl_process.png
 ├── 📂 reports # Power BI Reports (Dummy Version)
-│ ├── insurance_dashboard.pbix
-│ ├── financial_dashboard.pbix
-├── README.md # Project Overview'''
+│  ├── insurance_dashboard.pbix
+│  ├── financial_dashboard.pbix
+├── README.md # Project Overview```
 
 
 ### **🔹 Workflow Overview:**  
