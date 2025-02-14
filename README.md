@@ -33,6 +33,7 @@ This repository provides an overview of an **ETL pipeline designed to process fi
 │  ├── financial_dashboard.pbix
 ├── README.md # Project Overview```
 
+---
 
 ### **🔹 Workflow Overview:**  
 1️⃣ **Data Collection** – Extracting structured/unstructured data from multiple sources  
