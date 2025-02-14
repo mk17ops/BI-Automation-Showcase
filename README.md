@@ -36,9 +36,7 @@ This repository provides an overview of an **ETL pipeline designed to process fi
 
 ---
 
----
-
-## **🔹 Workflow Overview:**  
+## 🔹 Workflow Overview:
 1️⃣ **Data Collection** – Extracting structured/unstructured data from multiple sources  
 2️⃣ **ETL Process** – Cleaning, transforming, and loading data into a warehouse  
 3️⃣ **Data Modeling** – Creating optimized relational models for BI  
