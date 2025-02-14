@@ -33,9 +33,12 @@ This repository provides an overview of an **ETL pipeline designed to process fi
 │  ├── financial_dashboard.pbix
 ├── README.md # Project Overview```
 
+
 ---
 
-### **🔹 Workflow Overview:**  
+---
+
+## **🔹 Workflow Overview:**  
 1️⃣ **Data Collection** – Extracting structured/unstructured data from multiple sources  
 2️⃣ **ETL Process** – Cleaning, transforming, and loading data into a warehouse  
 3️⃣ **Data Modeling** – Creating optimized relational models for BI  
@@ -50,6 +53,22 @@ This repository provides an overview of an **ETL pipeline designed to process fi
 - **PySpark & SQL** – ETL & Data Warehousing  
 - **Flask API** – Backend Development  
 - **Angular** – Frontend UI for reporting  
+
+---
+
+## 📸 Screenshots  
+### 📊 **Power BI Dashboard Preview**  
+![Power BI Dashboard](images/dashboard_preview.png)
+
+### 🔄 **ETL Process Overview**  
+![ETL Process](images/etl_process.png)
+
+---
+
+## 🚀 How to Use  
+1️⃣ **Clone this repository:**  
+```bash
+git clone https://github.com/yourusername/BI-Automation-Showcase.git
 
 
 
