@@ -1,1 +1,28 @@
+# Decision Support System Architecture
 
+A decision support system consists of several layers that work together to provide accurate and relevant information to decision-makers:
+
+## Figure 14: Pipeline Design
+
+- **Data Source**: Data from operational systems, Excel files, SQL Server databases, etc.
+- **ETL Process**: Extract, Transform, and Load the data into the Data Warehouse.
+- **Data Warehouse**: Centralized storage of integrated and cleansed data.
+- **Data Marts**: Subsets of the Data Warehouse, specific to a particular domain such as finance or insurance.
+- **BI Tools**: Power BI, for data visualization and analysis.
+- **End Users**: Decision-makers and analysts who use reports and dashboards to make informed decisions.
+
+---
+
+## 2.5 Conceptual Schema of the Data Warehouse
+
+### CIMA Design Schema
+
+The CIMA design schema uses a **fact constellation**, where multiple fact tables share common dimensions. This approach enables the modeling of complex relationships between different fact tables, facilitating cross-fact analysis.
+
+### Figure 15: CIMA Design Schema
+
+### Finance Design Schema
+
+The Finance design schema uses a **star schema**, with a central fact table connected to several dimension tables. This structure simplifies queries and optimizes performance for analysis.
+
+### Figure 16: Finance Design Schema
